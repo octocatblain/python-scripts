@@ -10,12 +10,12 @@ Use of these scripts can compromise most(if not all) computer systems. Proceed w
 ## How to Stop
 - To stop a python script just press `Ctrl + C`, Alternatively, `kill -9` it.
 
-# Other Alternatives
+## Other Alternatives
 - You can also do it if you use the `exit()` function in your code. More ideally, you can do `sys.exit()` which might terminate Python even if you are running things in parallel through the multiprocessing package.
 
 Note: In order to use the `sys.exit()`, you must import it: `import sys`
 
 - You can use `pkill -f name-of-the-python-script`.
 
-<h5 align="center">Enjoy using the code</h5> :tada:
+<h5 align="center">Enjoy using the code :tada:</h5> 
 
